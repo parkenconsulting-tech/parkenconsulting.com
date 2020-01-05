@@ -22,7 +22,7 @@
 2. [DevOps at Scale - Development and Operations](https://devops.parkenconsulting.com) - Siddu
 3. [Transactional & Email Marketing at Scale](https://email.parkenconsulting.com) - Keerthi
 4. [Scalable Database Architecture, Security and Performance](http://database.parkenconsulting.com) - Chethan Kumar
-5. [MEAN Stack at Scale](https://mean.now.sh/) - Dhruv
+5. [MEAN Stack at Scale](https://mean.now.sh/) - D
 6. [Search for Business with Elasticsearch at Scale](http://search.parkenconsulting.com) - Vikas Kumar
 
 ## Categories - Business
