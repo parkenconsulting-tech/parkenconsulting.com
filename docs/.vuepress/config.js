@@ -9,5 +9,12 @@ module.exports = {
     ]
   },
   dest: "public",
-  plugins: ['social-share'],
+  plugins: [
+      'social-share',
+    {
+      'sitemap': {
+        hostname: 'https://www.parkenconsulting.com'
+      },
+    }
+  ],
 };
