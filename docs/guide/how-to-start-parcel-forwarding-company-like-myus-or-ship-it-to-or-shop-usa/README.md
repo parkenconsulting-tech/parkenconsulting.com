@@ -10,6 +10,18 @@
 
 Mailto [nakul@par-ken.com](mailto:nakul@par-ken.com) with below details
 
+
+# 36 Months Roadmap
+
+- Month 1 - Basic Setup & Research
+- Month 2 - Office Setup
+- Month 3 - Operations Team Setup
+- Month 4 - Payments Team Setup
+- Month 5 - Sales Team Setup
+- Month 6 - Marketing Team Setup
+
+
+
 1. How much your company capital for next 3 years ?
   - Please separate budget into 3 parts 
   - 1. Capital for Office/Warehouse setup
