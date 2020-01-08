@@ -1,6 +1,6 @@
-# [How to Start Parcel Forwarding Company](https://www.parkenconsulting.com/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa.html) like [MyUS](https://www.myus.com/), [ShipItTo](https://www.shipito.com/en/), [ShopUSA](https://www.shopusa.com/) in your country
+# [How to Start Parcel Forwarding Company](https://www.parkenconsulting.com/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa) like [MyUS](https://www.myus.com/), [ShipItTo](https://www.shipito.com/en/), [ShopUSA](https://www.shopusa.com/) in your country
 
-<a href="https://github.com/Parken-Consulting/parkenconsulting.com/edit/master/docs/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa.md">Improve this page</a>
+<a href="https://github.com/Parken-Consulting/parkenconsulting.com/edit/master/docs/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa/README.md">Improve this page</a>
 
 <br>
 <social-share
