@@ -1,7 +1,8 @@
 # Technology Architects & Strategists, Now Online
 
-<br>
+
 [Improve this page](https://github.com/parkenconsulting-tech/parkenconsulting.com//edit/master/docs/README.md)
+
 <br>
 <social-share
   :networks="['twitter', 'facebook']"
