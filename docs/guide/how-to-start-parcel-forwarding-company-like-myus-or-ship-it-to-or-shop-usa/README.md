@@ -13,6 +13,7 @@ Mailto [nakul@par-ken.com](mailto:nakul@par-ken.com) with below details
 # Companies Using
 
 - [ShoppReParcels.com](https://shoppreparcels.com)
+- ... [Click here](https://github.com/Parken-Consulting/parkenconsulting.com/edit/master/docs/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa/README.md) to add your company/business
 
 # 36 Months Roadmap - [Checklist](http://checkli.com/s/5e16cc7495532) 
 
