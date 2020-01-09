@@ -1,4 +1,4 @@
-# ShoppRe Parcels
+# [ShoppRe Parcels](https://www.parkenconsulting.com/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa/clients/shoppreparcels-india.html)
 
 
 ## Operations Vendors
