@@ -1,5 +1,7 @@
 # [ShoppRe Parcels](https://www.parkenconsulting.com/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa/clients/shoppreparcels-india.html)
 
+[Improve this page](https://github.com/Parken-Consulting/parkenconsulting.com/edit/master/docs/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa/clients/shoppreparcels-india.md) | [Website](https://shoppreparcels.com) | [Facebook](https://fb.com/goshoppre)
+
 **Service Area**: 
 - From: India
 - To: Global
