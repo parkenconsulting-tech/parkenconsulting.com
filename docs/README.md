@@ -1,7 +1,7 @@
 # Technology Architects & Strategists, Now Online
 
 <br>
-<a href="https://github.com/parkenconsulting-tech/parkenconsulting.com//edit/master/docs/README.md">Improve this page</a>
+[Improve this page](https://github.com/parkenconsulting-tech/parkenconsulting.com//edit/master/docs/README.md)
 <br>
 <social-share
   :networks="['twitter', 'facebook']"
@@ -34,3 +34,6 @@
 4. [Inventory & Warehouse Management](https://sellers.parkenconsulting.com) - Punith H S
 4. [Payment Solutions](https://fintech.parkenconsulting.com) - Bibhas Ghoshal
 
+## Todo
+
+[Checklist](http://checkli.com/s/5e16c238c7ff1)
