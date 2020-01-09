@@ -4,7 +4,7 @@
 - From: India
 - To: Global
 
-Profile: ShoppRe is started by Nikkitha Shanker & Saira Hassan in 2016
+**Profile**: ShoppRe is started by Nikkitha Shanker & Saira Hassan in 2016
 
 
 
