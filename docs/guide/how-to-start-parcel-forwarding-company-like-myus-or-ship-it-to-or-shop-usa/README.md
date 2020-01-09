@@ -11,9 +11,9 @@
 Mailto [nakul@par-ken.com](mailto:nakul@par-ken.com) with below details
 
 
-# 36 Months Roadmap
+# 36 Months Roadmap - [Checklist](http://checkli.com/s/5e16cc7495532) 
 
-- Month 1 - Basic Setup & Research
+- [Month 1 - Basic Setup & Research](https://www.parkenconsulting.com/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa/first-year/month-1-basic-research.html)
 - Month 2 - Office Setup
 - Month 3 - Operations Team Setup
 - Month 4 - Payments Team Setup
