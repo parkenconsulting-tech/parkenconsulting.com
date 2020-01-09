@@ -26,7 +26,7 @@
 5. [MEAN Stack at Scale](https://mean.parkenconsulting.com/) - D
 6. [Search for Business with Elasticsearch at Scale](http://search.parkenconsulting.com) - Vikas Kumar
 7. [Identity, Privacy Systems](https://identity.parkenconsulting.com)
-8. [SMS & VoIP](https://blog.onesconsultants.com/)
+8. [SMS & VoIP](https://www.parkenconsulting.com/voip.html)
 
 ## Categories - Business
 
