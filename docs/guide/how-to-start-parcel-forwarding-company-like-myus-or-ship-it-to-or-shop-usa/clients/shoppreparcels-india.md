@@ -1,5 +1,12 @@
 # [ShoppRe Parcels](https://www.parkenconsulting.com/guide/how-to-start-parcel-forwarding-company-like-myus-or-ship-it-to-or-shop-usa/clients/shoppreparcels-india.html)
 
+**Service Area**: 
+- From: India
+- To: Global
+
+Profile: ShoppRe is started by Nikkitha Shanker & Saira Hassan in 2016
+
+
 
 ## Operations Vendors
 
