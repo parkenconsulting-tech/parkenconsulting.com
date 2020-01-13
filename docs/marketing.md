@@ -3,8 +3,9 @@
 
 ## Process
 
-- Content
-- Design
+- Content Mode
+- Design Mode
+
 - Webpage
 
 then **Parallely**
