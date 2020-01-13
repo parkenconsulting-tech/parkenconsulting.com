@@ -1,11 +1,13 @@
 # Integrated Digital Marketing
  _E Commerce_
 
-## Process
+## [Process](https://drive.google.com/file/d/1QcAnPZO51sMRZlRiYToSYKq821YZs082/view?usp=sharing)
 
 - Content Mode
 - Design Mode
+- Usablity Mode 
 
+## Development
 - Webpage
 
 then **Parallely**
