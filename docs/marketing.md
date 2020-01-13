@@ -11,7 +11,7 @@ then **Parallely**
 - Social
 - SEO
 - Affiliate
-
+- Email
 
 ## SEO Products
 
@@ -33,3 +33,4 @@ used by
 - [blog.hubstaff.com/10-best-tools-measuring-content-marketing-roi](https://blog.hubstaff.com/10-best-tools-measuring-content-marketing-roi/)
 - [databox.com/software-tools-marketing-agencies-use-recommend](https://databox.com/software-tools-marketing-agencies-use-recommend)
 - [sproutsocial.com/insights/digital-marketing-tools](https://sproutsocial.com/insights/digital-marketing-tools/)
+- [databox.com/software-tools-marketing-agencies-use-recommend](https://databox.com/software-tools-marketing-agencies-use-recommend)
