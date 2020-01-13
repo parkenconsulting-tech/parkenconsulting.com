@@ -10,8 +10,10 @@ then **Parallely**
 - Paid
 - Social
 - SEO
+- SEO Backlinks
 - Affiliate
-- Email
+- Promotional Email
+- Transactional Email Footer
 
 ## SEO Products
 
