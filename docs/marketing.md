@@ -8,13 +8,13 @@
 - Webpage
 
 then **Parallely**
-- Paid
-- Social
-- SEO
-- SEO Backlinks
-- Affiliate
-- Promotional Email
-- Transactional Email Footer
+- Paid - google ads, fb ads
+- Social - campaign ops panel - fb, twitter, linkedin, instagram
+- SEO - campaign ops panel
+- SEO Backlinks - campaign member panel
+- Affiliate - campaign member panel
+- Promotional Email - mailtrain
+- Transactional Email Footer - engage
 
 ## SEO Products
 
