@@ -40,3 +40,4 @@ used by
 - [databox.com/software-tools-marketing-agencies-use-recommend](https://databox.com/software-tools-marketing-agencies-use-recommend)
 - [sproutsocial.com/insights/digital-marketing-tools](https://sproutsocial.com/insights/digital-marketing-tools/)
 - [databox.com/software-tools-marketing-agencies-use-recommend](https://databox.com/software-tools-marketing-agencies-use-recommend)
+- [coschedule.com/blog/content-marketing-checklist](https://coschedule.com/blog/content-marketing-checklist/)
