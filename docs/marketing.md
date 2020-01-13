@@ -1,4 +1,4 @@
-# Marketing
+# Integrated Digital Marketing
 
 ## Process
 
