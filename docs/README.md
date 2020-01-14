@@ -36,6 +36,13 @@
 4. [Inventory & Warehouse Management](https://sellers.parkenconsulting.com) - Punith H S
 4. [Payment Solutions](https://fintech.parkenconsulting.com) - Bibhas Ghoshal
 
+## Softwares
+
+- Mail for good
+- Mailtrain
+- Metabase
+- Spurt commerce
+
 ## Todo
 
 [Checklist](http://checkli.com/s/5e16c238c7ff1)
